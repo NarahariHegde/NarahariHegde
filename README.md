@@ -20,6 +20,6 @@ Vaadin framework which is full stack framework uses Java for both front end and 
 [![](https://visitcount.itsvg.in/api?id=NarahariHegde&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**NarahariHegde/NarahariHegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 

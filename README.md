@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
+Im Narahari, working as junior developer on vaadin framework.
+
 Vaadin framework which is full stack framework uses Java for both front end and back end<br><br>Would like to explore more in the field of AI and ml and web 3<br><br>Would like to work with startup buddies who are interested in solving real world problems by technology into it
 
 
